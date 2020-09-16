@@ -12,11 +12,3 @@ You can rotate the viewpoint.
 
 To save you must log in with google.
 
-Tasks
-1. Go over the SWE book ( where the pen is ) to make sure the plan makes sense with the outcomes above
-2. Design  the datastructure.
-3. Go through GOKit examples https://gokit.io/examples/ so you can use this as the framework.
-4. Start building the server.
-5. Start building the client.
-2. k
-
